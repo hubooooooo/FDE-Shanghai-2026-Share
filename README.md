@@ -15,6 +15,9 @@
 
 [逐字稿](#-逐字稿) · [七步全景](#-七步全景) · [怎么用](#-怎么用) · [目录](#-目录) · [说明](#-说明)
 
+[![lollipop](https://img.shields.io/badge/🍭_lollipop-AI_求职_Agent-ffb06e?style=for-the-badge)](https://lollipop.plus/)
+[![抖音](https://img.shields.io/badge/抖音-胡泊-1d4f92?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAA8Gu7OrgX27THzhYvivEzkNVKv1pBlyGHWdLyPJg7FJ_d9SjYs6-XqapH5MuX16xh)
+
 </div>
 
 ---
@@ -104,6 +107,16 @@ FDE-Shanghai-2026-Share
 
 ---
 
+## 🍭 不会梳理？用 lollipop
+
+项目讲不好、FDE 的内容不会梳理，都没关系。
+
+**[lollipop](https://lollipop.plus/)** 是我们 AI 产品班老师做的求职 Agent。分享会里那份「889 家企业、近 1500 条 FDE 岗位 JD」的数据，就是它扒下来的。最近上线的新功能 **深思 Agent**，汇总整理了各家公司的项目文档、复盘文章和面试问题。
+
+👉 **[lollipop.plus](https://lollipop.plus/)**
+
+---
+
 ## 📌 说明
 
 - 所有材料均为真实项目材料的**脱敏版**，仅供学习交流，请勿用于商业用途。
@@ -113,7 +126,9 @@ FDE-Shanghai-2026-Share
 <div align="center">
 <br>
 
-**胡泊** · 且曼北京校区校长 · 抖音 AI 区精选创作者
+**胡泊** · 且曼北京校区校长 · [抖音 AI 区精选创作者](https://www.douyin.com/user/MS4wLjABAAAA8Gu7OrgX27THzhYvivEzkNVKv1pBlyGHWdLyPJg7FJ_d9SjYs6-XqapH5MuX16xh)
+
+[🍭 lollipop](https://lollipop.plus/) · [抖音主页](https://www.douyin.com/user/MS4wLjABAAAA8Gu7OrgX27THzhYvivEzkNVKv1pBlyGHWdLyPJg7FJ_d9SjYs6-XqapH5MuX16xh)
 
 觉得有用，点个 ⭐ Star，下次更新第一时间看到。
 
