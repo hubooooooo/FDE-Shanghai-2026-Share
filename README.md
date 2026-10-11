@@ -126,8 +126,6 @@ FDE-Shanghai-2026-Share
 <div align="center">
 <br>
 
-**胡泊** · 且曼北京校区校长 · [抖音 AI 区精选创作者](https://www.douyin.com/user/MS4wLjABAAAA8Gu7OrgX27THzhYvivEzkNVKv1pBlyGHWdLyPJg7FJ_d9SjYs6-XqapH5MuX16xh)
-
 [🍭 lollipop](https://lollipop.plus/) · [抖音主页](https://www.douyin.com/user/MS4wLjABAAAA8Gu7OrgX27THzhYvivEzkNVKv1pBlyGHWdLyPJg7FJ_d9SjYs6-XqapH5MuX16xh)
 
 觉得有用，点个 ⭐ Star，下次更新第一时间看到。
