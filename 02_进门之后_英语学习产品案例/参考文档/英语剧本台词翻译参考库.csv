@@ -1,0 +1,38 @@
+﻿编号,场景类型,中文原句,推荐英文（B1）,推荐英文（B2）,推荐英文（C1）,说明
+TR-001,酒店入住,你好，我预订了两晚。,"Hi, I have a room booked for two nights.","Hi, I've got a booking for two nights.","Hi, I have a reservation for two nights.",避免直译“I booked two nights”缺宾语；C1 用 reservation 语域更正式。
+TR-002,酒店入住,请出示一下护照。,"Can I see your passport, please?","Passport, please.","I'll need to see your passport, please.",前台冷淡人设可用 B2 的省略句，体现角色语气。
+TR-003,酒店入住,没有护照，我不能确认你的身份。,"Without your passport, I can't check who you are.","Without your passport, I cannot verify your identity.","Without a passport, there's no way for me to authenticate your identity.",B2 版命中 KP-B2-0412 verify your identity；B1 用 check who you are 降级；C1 可替换为 authenticate（KP-C1-0145）。片中填空题即取 B2 句。
+TR-004,酒店入住,按照意大利法律，我必须登记你的护照。,"In Italy, the law says I must record your passport.","Under Italian law, I have to register your passport.","Under Italian law, I'm obliged to register every guest's passport.",B2 句型对应 KP-B2-0957 under the law（词形 under Italian law）。
+TR-005,酒店入住,今晚已经满房了。,"Sorry, we're full tonight.",I'm afraid we're fully booked tonight.,I'm afraid we don't have a single room left tonight.,不要写 the room is full（指房间里人满）。
+TR-006,酒店入住,退房时间是上午十一点。,You need to check out by eleven.,Check-out is at eleven a.m.,We'd ask you to check out no later than eleven.,check out 为 B1 短语，B2 剧本中出现但不标黄。
+TR-007,酒店入住,能不能通融一下，就这一次？,"Can you help me, just this one time?","Couldn't you make an exception, just this once?","Couldn't you bend the rules, just this once?",B2 命中 make an exception；C1 命中 bend the rules。避免 please be flexible 的翻译腔。
+TR-008,酒店入住,押金五十欧，退房时退还。,It's a fifty-euro deposit. You get it back when you leave.,"There's a fifty-euro deposit, refunded at check-out.","We take a fifty-euro deposit, which is refunded when you check out.",数字与货币统一用 euro 小写。
+TR-009,报警,我要报案，我的钱包被偷了。,I want to tell the police. Someone stole my wallet.,I need to report a theft. My wallet was stolen.,I'd like to report a theft. My wallet's been taken.,B2 命中 KP-B2-0388 report a theft；B1 拆成两句降低难度。
+TR-010,报警,是在哪里被偷的？,Where did it happen?,Where exactly was it stolen?,Can you tell me exactly where it was taken?,警察角色语气中性、程序化。
+TR-011,报警,我刚从警察局回来。,I just came back from the police station.,I've just come from the police station.,I've come straight from the police station.,英式现在完成时更自然；避免 I just now returned。
+TR-012,报警,这是报案回执。,This is the paper from the police.,Here's the police report.,Here's a copy of the police report.,receipt 不适用于报案回执。
+TR-013,报警,一定是扒手干的。,It must be a thief.,It must have been a pickpocket.,It was almost certainly a pickpocket.,B2 命中 pickpocket；注意 must have been 的推测语法。
+TR-014,道歉,对不起，是我误会你了。,"Sorry, I was wrong about you.","Sorry, I got the wrong idea about you.",I'm sorry. I completely misjudged you.,避免 I misunderstand you（时态错误且语义偏）。
+TR-015,道歉,我欠你一个道歉。,I need to say sorry to you.,I think I owe you an apology.,"I owe you an apology, and a proper one.",B2 命中 owe someone an apology。
+TR-016,道歉,给你添麻烦了。,Sorry for the trouble.,Sorry to cause you so much trouble.,I'm sorry for putting you through all this.,不可直译 add trouble to you。
+TR-017,暧昧,我们是不是在哪儿见过？,Have we met before?,Have we met somewhere before?,I could swear we've met before.,经典搭讪句，三级差异主要在语气。
+TR-018,暧昧,你戴面具的时候，我就认出你了。,"I knew it was you, even with the mask.","I recognized you, even behind the mask.","Even behind that mask, I'd have known you anywhere.",recognize 为 B1，B2 剧本中不标黄。
+TR-019,暧昧,那晚你为什么不告而别？,Why did you leave that night without saying goodbye?,Why did you disappear that night without a word?,Why did you vanish that night without so much as a goodbye?,C1 so much as 属高阶结构，控制密度。
+TR-020,暧昧,我好像喜欢上你了。,I think I like you.,I think I'm falling for you.,"I think I've fallen for you, and it scares me.",B2 命中 fall for；避免 I seem to like you。
+TR-021,暧昧,真巧，又在这儿碰到你。,"Wow, I see you here again!","What a coincidence, running into you here again.",Of all the places to run into you again.,B2 命中 coincidence。C1 为地道习语化表达。
+TR-022,冲突,我凭什么相信你？,Why should I believe you?,Why should I take your word for it?,Give me one reason to take you at your word.,B2 命中 take someone's word for it。
+TR-023,冲突,这事没得商量。,No. We can't talk about this.,That's out of the question.,That's simply not up for discussion.,B2 命中 out of the question；B1 保留拒绝语气即可。
+TR-024,冲突,这是规定，不是我个人的意思。,It's the rule. It's not my idea.,"It's hotel policy, not my personal choice.","It's policy. Believe me, it's nothing personal.",B2 命中 policy；不要写 my personal meaning。
+TR-025,冲突,你冷静一点，听我说。,Calm down and listen to me.,Calm down and hear me out.,Just take a breath and hear me out.,calm down 为 B1 短语。
+TR-026,冲突,你宁愿让一个女人淋着雨流落街头？,You want a woman to stay outside in the rain?,So you'd rather leave a woman alone in the rain?,So you'd honestly rather leave a woman stranded in the rain?,would rather 结构在 B2 剧本中常用于对质。
+TR-027,冲突,我可不想因为你丢了执照。,I don't want to lose my license because of you.,I'd rather not lose my license over this.,I'm not going to jeopardize my license for one guest.,C1 命中 jeopardize；license 统一美式拼写。
+TR-028,冲突,你这理由不太有说服力。,That's not a good reason.,That's not a very convincing reason.,That's hardly a compelling reason.,C1 命中 compelling。
+TR-029,身份反转,原来那晚的人是你！,It was you that night!,So you were the one that night!,So it was you all along!,反转句要短促，三级差异不宜过大。
+TR-030,身份反转,你一直在骗我？,Were you lying to me the whole time?,Have you been lying to me all this time?,"So this whole time, you've been playing me?",C1 playing me 为口语习语，需审核是否符合角色。
+TR-031,身份反转,面具下面的人……是你？,The man under the mask... was you?,The man behind the mask... it was you?,The man behind the mask... it was you all along?,避免 under the mask 在 B2 及以上出现。
+TR-032,身份反转,我知道你是谁了。,I know who you are now.,I think I know who you are.,I know exactly who you are.,2-1 结尾句采用 B2 版，留悬念。
+TR-033,求助,我今晚无处可去了。,I have nowhere to go tonight.,I've got nowhere else to go tonight.,I've literally got nowhere else to go tonight.,literally 在 C1 口语中可用，但不宜高频。
+TR-034,求助,我手机没电了。,My phone has no battery.,My phone's run out of battery.,My phone died on me.,run out of 为 B1 短语；不可写 my phone has no electricity。
+TR-035,求助,明天你得去大使馆办临时护照。,Tomorrow you need to go to the embassy for a new passport.,You'll need a temporary passport from your embassy tomorrow.,"First thing tomorrow, you should get an emergency passport from your embassy.",B2 命中 embassy、temporary；注意同一句不堆叠两个以上标黄项。
+TR-036,日常寒暄,这里在狂欢节期间特别挤。,It's very crowded here during Carnival.,It gets really crowded here during Carnival.,The place is absolutely packed during Carnival.,Carnival 作专名首字母大写，不作为知识点。
+TR-037,日常寒暄,顺便问一下，你叫什么名字？,"By the way, what's your name?","By the way, I never got your name.",I don't think I ever caught your name.,B2/C1 版更符合久别重逢的语境。
